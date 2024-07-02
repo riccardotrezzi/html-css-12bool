@@ -1,0 +1,26 @@
+/*GENERAL*/
+
+section{
+    margin-bottom:20px;
+}
+
+/*BOX*/
+
+.blue-elem-box{
+    background-color: blue;
+    height: 50px;
+    padding: 12px;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+}
+
+.green-elem-box{
+    background-color: green;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+}
+
